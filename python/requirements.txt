@@ -1,1 +1,7 @@
+To open the python file, you will need to install
 
+pandas
+numpy
+matplotlib
+openpyxl
+jupyter
