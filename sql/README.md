@@ -8,7 +8,7 @@ This folder contains the SQL queries used to analyze the Retail Sales dataset.
 
 ## File
 
-- `superstore-sales-analysis.sql`
+- `retail-sales-analysis.sql`
 
 ## Analysis Performed
 
