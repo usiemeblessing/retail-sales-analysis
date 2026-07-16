@@ -101,24 +101,36 @@ This analysis answers the following questions:
 
 ## 💡 Key Insights
 
-*To be updated with findings from the analysis.*
+This analysis uncovered the following insights:
 
-Lagos generated the highest revenue, contributing X% of total sales.
-Electronics was the best-performing category, accounting for X% of total revenue.
-Revenue peaked in Month and was lowest in Month, indicating seasonal demand.
-Customer Name generated the highest lifetime revenue.
-Product Name was the highest-revenue product across all categories.
-Payment Method was the most preferred payment option, representing X% of all transactions.
-Category recorded the highest return rate, exceeding the overall average of X%.
-Orders with longer delivery times experienced significantly higher return rates.
-Salesperson Name generated the highest sales revenue and order volume.
-The business recorded ₦X in revenue from X orders with an average order value of ₦X.
+1. Lagos generated the highest revenue, contributing X% of total sales.
+2. Electronics was the best-performing category, accounting for X% of total revenue.
+3. Revenue peaked in Month and was lowest in Month, indicating seasonal demand.
+4. Customer Name generated the highest lifetime revenue.
+5. Product Name was the highest-revenue product across all categories.
+6. Payment Method was the most preferred payment option, representing X% of all transactions.
+7. Category recorded the highest return rate, exceeding the overall average of X%.
+8. Orders with longer delivery times experienced significantly higher return rates.
+9. Salesperson Name generated the highest sales revenue and order volume.
+10. The business recorded ₦X in revenue from X orders with an average order value of ₦X.
 
 ---
 
 ## 🚀 Recommendations
 
-*To be updated with recommendations from the analysis.*
+Below are the recommendations made from the analysis:
+
+1. Increase inventory and marketing investment in the Electronics category to maximize revenue.
+2. Replicate high-performing regional sales strategies in lower-performing markets.
+3. Launch targeted promotions during low-demand months to stabilize seasonal sales.
+4. Strengthen loyalty programs for high-value customers to improve customer retention.
+5. Prioritize stocking and promoting top-performing products while reviewing underperformers.
+6. Optimize the most-used payment channels to improve checkout experience.
+7. Investigate the root causes of returns in high-return categories and improve quality control.
+8. Reduce delivery lead times through logistics optimization to minimize product returns.
+9. Reward top-performing salespersons and provide coaching for lower performers.
+10. Leverage sales forecasting to optimize inventory, reduce stockouts, and sustain revenue growth.
+
 
 ---
 
