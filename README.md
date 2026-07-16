@@ -1,33 +1,55 @@
-# 📊 Superstore Sales Analysis
+# 📊 Retail Sales Performance Analysis
 
-> End-to-end retail sales analysis using Excel, SQL (MySQL), Python, and Power BI.
+> An end-to-end retail sales analytics project using **Python, MySQL, Microsoft Excel, and Power BI** to analyze sales performance, customer behaviour, regional trends, and product performance for a fictional retail company, **ShopEase Nigeria**.
+
+![Dashboard Preview](visuals/powerbi-dashboard-overview.png)
 
 ---
 
 ## 📖 Project Overview
 
-A brief summary of the project.
+This project analyzes **80,000 retail transactions** from ShopEase Nigeria, a fictional mid-sized retail company operating across eight major cities in Nigeria.
+
+The objective was to uncover sales trends, evaluate regional and product performance, understand customer purchasing behaviour, and provide actionable recommendations through data analysis and interactive dashboards.
+
+The project demonstrates an end-to-end analytics workflow—from data cleaning and exploratory analysis to SQL querying and dashboard development.
 
 ---
 
 ## 🎯 Business Problem
 
-Explain the business challenge.
+Although ShopEase Nigeria has experienced consistent revenue growth, management identified that some regions and product categories continue to underperform.
+
+As a Data Analyst, I was tasked with identifying performance gaps, uncovering sales patterns, and recommending strategies to improve profitability and operational efficiency.
 
 ---
 
 ## ❓ Business Questions
 
-- Question 1
-- Question 2
-- Question 3
-...
+This analysis answers the following questions:
+
+1. Which regions generate the highest revenue?
+2. Which product categories contribute the most revenue?
+3. How does revenue change over time?
+4. Who are the highest-value customers?
+5. Which products generate the most revenue?
+6. Which payment methods are most preferred?
+7. Which categories experience the highest return rates?
+8. Does delivery time influence returns?
+9. Which salespersons contribute the most revenue?
+10. What actions can improve business performance?
 
 ---
 
 ## 📂 Dataset
 
-Information about the dataset.
+| Attribute | Description |
+|-----------|-------------|
+| Dataset | retail_sales.csv |
+| Records | 80,000 |
+| Period | 2021–2023 |
+| Industry | Retail / E-Commerce |
+| Company | ShopEase Nigeria (Fictional) |
 
 ---
 
@@ -35,60 +57,93 @@ Information about the dataset.
 
 | Tool | Purpose |
 |------|---------|
-| Excel | Dashboard |
+| Python (Pandas, Matplotlib) | Data Cleaning & Exploratory Data Analysis |
+| MySQL | Business KPI Queries |
+| Microsoft Excel | Pivot Tables & Dashboard |
 | Power BI | Interactive Dashboard |
-| MySQL | Data Analysis |
-| Python | Data Cleaning & EDA |
-| Jupyter Notebook | Analysis Environment |
+| Git & GitHub | Version Control & Documentation |
 
 ---
 
 ## 🔄 Project Workflow
 
-1. Data Collection
-2. Data Cleaning
-3. SQL Analysis
-4. Python Analysis
-5. Dashboard Development
-6. Business Insights
-7. Recommendations
+- Data Collection
+- Data Cleaning
+- Exploratory Data Analysis (Python)
+- SQL Business Analysis
+- Excel Dashboard Development
+- Power BI Dashboard Development
+- Business Insights
+- Recommendations
+
+---
+
+## 📊 Dashboard Preview
+
+### Power BI Dashboard
+
+![Power BI Dashboard](visuals/powerbi-dashboard-overview.png)
+
+### Excel Dashboard
+
+![Excel Dashboard](visuals/excel-dashboard-overview.png)
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+
+- **Total Revenue:** ₦15.99 Billion
+- **Total Orders:** 80,000
+- **Average Order Value:** ₦199.85K
+- **Return Rate:** 8%
+
+---
+
+## 💡 Key Insights
+
+*To be updated with findings from the analysis.*
+
+---
+
+## 🚀 Recommendations
+
+*To be updated with recommendations from the analysis.*
 
 ---
 
 ## 📁 Repository Structure
 
-(Your folder tree)
+```text
+retail-sales-performance-analysis/
+│
+├── data/
+│   ├── raw/
+│   └── cleaned/
+├── sql/
+├── python/
+├── excel-dashboard/
+├── powerbi-dashboard/
+├── visuals/
+├── reports/
+└── README.md
+```
 
 ---
 
-## 📸 Dashboard Preview
+## ▶️ How to Reproduce
 
-(Excel screenshot)
-
-(Power BI screenshot)
-
----
-
-## 📊 Key Insights
-
-(Add your actual findings)
-
----
-
-## 💡 Recommendations
-
-(Add your recommendations)
-
----
-
-## 🚀 How to Use
-
-Explain how someone can explore the project.
+1. Explore the raw dataset in `data/raw/`.
+2. Review the cleaned dataset in `data/cleaned/`.
+3. Run the SQL queries in the `sql/` folder using MySQL.
+4. Open the Jupyter Notebook in the `python/` folder.
+5. Explore the Excel and Power BI dashboards.
 
 ---
 
 ## 👤 Author
 
-Blessing Usieme
+**Blessing Usieme**
 
-Data Analyst | Basic Front-End Developer
+**Data Analyst | Basic Front-End Developer**
+
+GitHub: https://github.com/blessingusieme
